@@ -9,7 +9,7 @@ Development can be incredibly self-focussed. Development managers and developers
 Nowhere is this more obvious than when development is complete. 
 
 - There is a belief that the deadline is available to technical writers, and in my experience, it is not available more than 50% of the time.
-- There is a stronger belief that the availability of a feature to product users is known to *all* once development is complete. That has enormous impact on technical writers because:
+- There is a stronger belief that the availability of a feature to product users is known to *everyone* once development is complete. That has enormous impact on technical writers because:
   - Technical writers sometimes must wait for confirmation that the product's functionality is available before taking the step that makes documentation visible to customers.
   - Technical writers sometimes do not have access to the product that users do, and cannot check whether the functionality has been made available.
 
