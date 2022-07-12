@@ -17,7 +17,7 @@ I sympathisize with you if you want to believe, "Well, those are just companies 
 
 As anyone who has ever experienced [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) will tell you, communication that focusses on development-client or development-development has a strong tendency to exclude everyone not part of those groups. And if the company's values do not consider that testing and user documentation are part of development, that definitely seeps down into developers and those people who manage the developers. 
 
-As someone who prefers the title "technical writer," for anyone in my role who must work in an Agile development environment, I am willing to champion the term "information developer."
+As someone who prefers the title "technical writer," I am still willing to champion the term "information developer" for anyone in my role who must work in an Agile development environment.
 
 In my time, I have ensured that if developers did not keep me informed, then I did the work of asking for the latest information. I recommend that all technical writers be pro-active in keeping communication open. Communication defines our jobs, after all. 
 
