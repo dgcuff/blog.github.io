@@ -41,7 +41,8 @@ His frustration was real and should not be overlooked, downplayed, or worst of a
 I was fortunate enough that I understood this expert's natural pushback against people who want to "improve" something by adding their individual contribution, not all of which "improvement" is helpful. 
 
 ![Text illustration reading "The strongest drive is not love or hate. It is one person's need to ~~change~~ ~~modify~~ ~~revise~~ ~~alter~~ ~~rewrite~~ ~~amend~~ ~~chop to pieces~~ change another's copy."](/../images/The-strongest-drive.png)
-**from _The Elements of Editing_ by Arthur Plotnik (1982)**
+
+<p style="figcaption">As reproduced in <cite>The Elements of Editing</cite> by Arthur Plotnik (1982)</p>
 
 You likely have had the experience of reading a journalist assigned to a news story about some aspect of science that oversimplified the science, or misrepresented the results of some scientific research. And if you have had that experience, you may also recall an occasion on which the person who wrote the story's headline (usually _not_ the person who wrote the story) and thereby oversimplified or mispresented the message still more.
 

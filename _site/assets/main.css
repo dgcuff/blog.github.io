@@ -14,13 +14,12 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 img { max-width: 100%; vertical-align: middle; text-align: center;}
 
 /** DGC */
-
 img > strong {font-size: 7px;}
 
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 14px; }
+figcaption { font-size: 10px; text-align: center;}
 
 /** Lists */
 ul, ol { margin-left: 30px; }
