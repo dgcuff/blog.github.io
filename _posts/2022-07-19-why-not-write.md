@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Five duties of a technical writer"
-date:   2022-07-18 16:30:00 -0400
+date:   2022-07-19 09:15:00 -0400
 categories: rules suggestions guidelines duties duty non-writers experts subject-matter-experts SMEs
+typora-root-url: ./images
 ---
 Writing requires that you try to reach your reader. Technical writing doubly so. And that's the part that isn't easy. There are obstacles, and you have to do the work of overcoming all of them all of the time.
 
@@ -28,20 +29,19 @@ Here are five of my rules for technical writers.
 
    Writing _is_ re-writing. There is a 0% probability that you wrote everything perfectly the first time. You can save yourself and your co-workers time and effort by rewriting before anyone else ever sees it. In the event that you are _fortunate_ enough to have someone else review your work, you have to take their comments seriously in light of what is best for the reader. Technical writing is no place for a writer to have an ego about someone suggesting a change to their phrasing.
 
-I will not soon forget the subject matter expert who responded to my request for an explanation of a feature (and its intended use) by writing a long document for me to read. It was a document that could be understood only by someone with advanced experience is his position. I know; I asked junior people in that field to read it, and they could not grasp it. I scheduled a meeting with the expert to clarify the points that confused me. My goal was to explain the feature to the user.
+I will not soon forget the subject matter expert who responded to my request for an explanation of a feature (and its intended use) by writing a long document for me to read. It was a document that could be understood only by someone with advanced experience in his position. I know; I asked junior people in that field to read it, and they could not grasp it. I scheduled a meeting with the expert to clarify the points that confused me. My goal was to explain the feature to the user.
 
 The meeting ended with the expert absolutely irate that I would not just copy and paste what he had written into the user documentation. "Why can't you just use what I wrote?" he fumed.
 
 His frustration was real and should not be overlooked, downplayed, or worst of all, belittled: 
 
 - He could not understand the difference between writing for himself and his peers and writing for a user. He was not stupid; he just could not grasp the idea, let alone why it was important. He had no empathy for the user.
-- He had spent a long time writing his document, and had become invested in the way he had written his explanation. He had little experience writing, and no experience in revising what he had written.
+- He had spent a long time writing his document, and had become invested in the way he had written his explanation. He had little experience in writing, less experience in revising what he had written, and no experience whatsoever in writing for the user.
 
-I was fortunate enough that I understood this expert's natural pushback against people who want to "improve" something by adding their individual contribution, not all of which is helpful. 
+I was fortunate enough that I understood this expert's natural pushback against people who want to "improve" something by adding their individual contribution, not all of which "improvement" is helpful. 
 
-![Text illustration reading "The strongest drive is not love or hate. It is one person's need to to ~~change~~ ~~modify~~ ~~revise~~ ~~alter~~ ~~rewrite~~ ~~amend~~ ~~chop to pieces~~ change another's copy."](/Users/Doug/blog/blog.github.io/_posts/The-strongest-drive.png)
-**from _The Elements of Editing_ by Arthur Plotnik (1982)**
+![Text illustration reading "The strongest drive is not love or hate. It is one person's need to ~~change~~ ~~modify~~ ~~revise~~ ~~alter~~ ~~rewrite~~ ~~amend~~ ~~chop to pieces~~ change another's copy."](/../images/The-strongest-drive.png)
 
-You likely have had the experience of reading a journalist assigned to a news story about some aspect of science that oversimplified the research result, or misrepresented it. And if you have had that experience, you may also recall an occasion on which the person who wrote the story's headline (usually _not_ the same journalist) and oversimplified or mispresented the message still more.
+You likely have had the experience of reading a journalist assigned to a news story about some aspect of science that oversimplified the science, or misrepresented the results of some scientific research. And if you have had that experience, you may also recall an occasion on which the person who wrote the story's headline (usually _not_ the person who wrote the story) and thereby oversimplified or mispresented the message still more.
 
 As you progress through your career as a technical writer, you will encounter more people who are not experts in communicating, and have not considered the possibility that anyone can have expertise in communicating. Another time, we'll talk about this idea that anyone can write.
