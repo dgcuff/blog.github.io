@@ -1,3 +1,5 @@
+@import "dgc.css";
+
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -11,15 +13,12 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { mar
 main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 
 /** Images */
-img { max-width: 100%; vertical-align: middle; text-align: center;}
-
-/** DGC */
-img > strong {font-size: 7px;}
+img { max-width: 100%; vertical-align: middle; }
 
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 10px; text-align: center;}
+figcaption { font-size: 14px; }
 
 /** Lists */
 ul, ol { margin-left: 30px; }
