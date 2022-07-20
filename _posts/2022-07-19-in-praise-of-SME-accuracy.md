@@ -2,7 +2,8 @@
 layout: post
 title:  "In praise of the accuracy of subject matter experts"
 date:   2022-07-19 17:00:00 -0400
-categories: coders programmers software-developer errors mistakes
+tags: coders programmers developers software-developers software-engineers non-writers experts subject-matter-experts SMEs errors mistakes
+categories: developers
 ---
 Over the course of a career lasting over 20 years, would you care to guess how many times I have been given data from a software developer that later turned out not to be correct?
 

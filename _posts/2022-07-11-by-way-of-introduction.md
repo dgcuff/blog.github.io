@@ -2,7 +2,8 @@
 layout: post
 title:  "Allow me to introduce myself"
 date:   2022-07-11 12:14:00 -0400
-categories: autobiography autobiographical 
+tags: autobiography autobiographical 
+categories: personal
 ---
 I'm a technical writer with a career of 20 years full-time documentation of software (and occasionally hardware).
 

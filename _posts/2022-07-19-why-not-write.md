@@ -2,7 +2,8 @@
 layout: post
 title:  "Five duties of a technical writer"
 date:   2022-07-19 09:15:00 -0400
-categories: rules suggestions guidelines duties duty non-writers experts subject-matter-experts SMEs
+tags: rules suggestions guidelines duties duty coders programmers developers software-developers software-engineers non-writers experts subject-matter-experts SMEs communication
+categories: rules developers
 typora-root-url: ./images
 ---
 Writing requires that you try to reach your reader. Technical writing doubly so. And that's the part that isn't easy. There are obstacles, and you have to do the work of overcoming all of them all of the time.

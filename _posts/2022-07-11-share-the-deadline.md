@@ -2,7 +2,8 @@
 layout: post
 title:  "Everyone knows THAT!"
 date:   2022-07-11 12:15:00 -0400
-categories: scheduling development-documentation-communication Agile 
+tags: deadlines scheduling communication Agile
+categories: developers communication
 ---
 Development can be incredibly self-focussed. Development managers and developers share information with members of the development team, and can be positively stunned to learn that not everyone has access.
 
