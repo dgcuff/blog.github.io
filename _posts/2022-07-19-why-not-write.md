@@ -46,4 +46,8 @@ I was fortunate enough that I understood this expert's natural pushback against 
 
 You likely have had the experience of reading a journalist assigned to a news story about some aspect of science that oversimplified the science, or misrepresented the results of some scientific research. And if you have had that experience, you may also recall an occasion on which the person who wrote the story's headline (usually _not_ the person who wrote the story) and thereby oversimplified or mispresented the message still more.
 
-As you progress through your career as a technical writer, you will encounter more people who are not experts in communicating, and have not considered the possibility that anyone can have expertise in communicating. Another time, we'll talk about this idea that anyone can write.
+So the fear of non-experts has a place. But as a technical writer, you have expertise, too. You have expertise in communication that bridges the gap between all the knowledge that an expert has and the information that the user needs to complete the task.
+
+As you progress through your career as a technical writer, you will encounter more people who are not experts in communicating, and have not considered the possibility that anyone can have expertise in communicating. You can show other experts that you respect their expertise and that your expectation that they respect your expertise is a reasonable request.
+
+Another time, we'll talk about this idea that anyone can write.
