@@ -2,7 +2,7 @@
 layout: post
 title:  "Allow me to introduce myself"
 date:   2022-07-11 12:14:00 -0400
-categories: scheduling development-documentation-communication Agile 
+categories: autobiography autobiographical 
 ---
 I'm a technical writer with a career of 20 years full-time documentation of software (and occasionally hardware).
 
