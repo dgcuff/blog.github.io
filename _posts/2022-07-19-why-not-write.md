@@ -3,7 +3,6 @@ layout: post
 title:  "Five duties of a technical writer"
 date:   2022-07-19 09:15:00 -0400
 categories: rules suggestions guidelines duties duty non-writers experts subject-matter-experts SMEs
-typora-root-url: ./images
 ---
 Writing requires that you try to reach your reader. Technical writing doubly so. And that's the part that isn't easy. There are obstacles, and you have to do the work of overcoming all of them all of the time.
 
@@ -40,7 +39,7 @@ His frustration was real and should not be overlooked, downplayed, or worst of a
 
 I was fortunate enough that I understood this expert's natural pushback against people who want to "improve" something by adding their individual contribution, not all of which "improvement" is helpful. 
 
-![Text illustration reading "The strongest drive is not love or hate. It is one person's need to ~~change~~ ~~modify~~ ~~revise~~ ~~alter~~ ~~rewrite~~ ~~amend~~ ~~chop to pieces~~ change another's copy."](/../../images-posts/The-strongest-drive.png)
+![Text illustration reading "The strongest drive is not love or hate. It is one person's need to ~~change~~ ~~modify~~ ~~revise~~ ~~alter~~ ~~rewrite~~ ~~amend~~ ~~chop to pieces~~ change another's copy."](../images-posts/The-strongest-drive_reduced.png)
 
 <p style="font-size: 10px">[Text illustration as reproduced in <cite>The Elements of Editing</cite> by Arthur Plotnik (1982)]</p>
 
