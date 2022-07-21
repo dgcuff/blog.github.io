@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Technical Writing Joys and Woes
+title: Technical Writing Joys & Woes
 email: gitblog@cuff.ca
 description: >- # this means to ignore newlines until "baseurl:"
   I've been writing documentation and help for over 20 years.
