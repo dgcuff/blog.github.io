@@ -17,7 +17,7 @@ This slipshod interface gives the impression that the hiring form was rushed out
 
 And if the company outsourced the hiring process&mdash;that's worse! They cheaped out or, for some other less-savoury reason, hired a supposed expert in hiring that takes the process lightly in their quest for quantity over quality.
 
-But that was a one-off. Much more common are employers who are looking for a Canadian employee and ask applicants to declare whether they need sponsorship to work in the United States. I always answer, truthfully, that I would need sponsorship to work in the USA, so that the lazy, sloppy employer (or their lazy, sloppy delegate) screens me out immediately, even though the position is in Canada.
+But that was a one-off. Much more common are employers who are looking for a Canadian employee and ask applicants to declare whether they need sponsorship to work in the United States. How is one meant to respond?
 
 Also, I take just a moment to celebrate whenever an employer uses a form that asks whether I am eligible to work in Canada. These are the employers I strive to remember.
 
