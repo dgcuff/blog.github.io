@@ -43,6 +43,6 @@ Concepts aren't appealing, like snacks, but they're necessary, like vegetables. 
 
 The solution is regular and specific communication&mdash;from you to the developers, but also from the developers to you. And since you're not in charge of when or how others communicate with you, you may have to take the lead in reminding developers how helpful they are being when they communicate regularly, communicate early, and communicate clearly and specifically. 
 
-Communication about expectations is key. If someone's expectations remain unexpressed, it's going to be impossible to explain why they might need to be adjusted. Because the underlying assumptions are going to stay hidden.
+Communication about expectations is key. If someone's expectations remain unexpressed, it's going to be impossible to explain why they might need to be adjusted. Because the hidden, underlying assumptions are going to stay hidden.
 
-I remember a TV special hosted by [Tom Peters](https://en.wikipedia.org/wiki/Tom_Peters) in which Mr Peters was asking the head of a company how they could possibly function with a flat rather than a hierarchical company structure. The company head leaned forward to be sure he had Mr Peter's attention, and answered "Tom... we _talk_ to each other."
+I remember a TV special hosted by [Tom Peters](https://en.wikipedia.org/wiki/Tom_Peters) in which Mr Peters was asking the head of a company how they could possibly function with a flat rather than a hierarchical company structure. The company head leaned forward to be sure he had the full attention of Mr Peters, and answered "Tom... we _talk_ to each other."
