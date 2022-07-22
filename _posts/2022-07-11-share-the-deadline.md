@@ -22,4 +22,4 @@ As someone who prefers the title "technical writer," I am still willing to champ
 
 In my time, I have ensured that if developers did not keep me informed, then I did the work of asking for the latest information. I recommend that all technical writers be pro-active in keeping communication open. Communication defines our jobs, after all. 
 
-But I have enormous sympathy for any technical writer who reports that being pro-active keeps being pushed aside in order to deal with the constant stream of new tasks. If you've ever worked in food service, you'll understand the long-term effects on your pysche of there always being someone new with new demands in the queue. The queue is eternal. Closure is a myth.
+But I have enormous sympathy for any technical writer who reports that being pro-active keeps being pushed aside in order to deal with the constant stream of new tasks. If you've ever worked in food service, you'll understand the long-term effects on your psyche of there always being someone new with new demands in the queue. The queue is eternal. Closure is a myth.
