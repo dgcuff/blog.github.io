@@ -11,7 +11,7 @@ Most companies looking to hire technical writers demand attention to detail in t
 
 A major high-tech firm well known to developers posted a job located in Canada that required applicants to select from a list of American states (!), and did not provide a way to change the country from the US to Canada. I'm well used to forms that default to requiring selecting a state, but the majority of forms change the list from states to provinces once you select Canada as the country. That wasn't the case here.
 
-What's more, the same employer, on the same form appeared to offer applicants a choice of uploading a writing sample, or providing a URL to a portfolio... and then made it mandatory to upload a file even if you provided the portfolio URL.
+What's more, the same employer, on the same form, appeared to offer applicants a choice of uploading a writing sample, or providing a URL to a portfolio... and then made it mandatory to upload a file even if you provided the portfolio URL.
 
 This slipshod interface gives the impression that the hiring form was rushed out, between "important" work, over someone's lunch hour.
 
