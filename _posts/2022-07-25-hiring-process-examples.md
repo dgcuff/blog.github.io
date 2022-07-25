@@ -4,6 +4,7 @@ title:  "Hiring process subtext and oblique signals: what's in a form?"
 date:   2022-07-25 12:30:00 -0400
 tags: employment hiring job job-search pre-interview recruitment staffing
 categories: employment
+typora-root-url: ./images
 ---
 I'm happy with my current employer, but next time it comes to looking for work as a technical writer, I intend to remember that not all companies are created equal. Some companies signal to prospective employees how they can expect to be treated. Unsurprisingly, especially to adherents of [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law), more companies will signal that they will _not_ treat you well, but do not despair. There are still companies that signal the significant respect that they have for their employees and prospective employees. Profitable and respected companies, capitalism apologists please note.
 
@@ -21,11 +22,11 @@ But that was a one-off. Much more common are employers who are looking for a Can
 
 Also, I take just a moment to celebrate whenever an employer uses a form that asks whether I am eligible to work in Canada. These are the employers I strive to remember.
 
-![Screen shot from a 2022 LinkedIn EasyApply form that asks the question "Are you legally eligible to work in Canada?"](../images-posts/eligible-to-work-in-Canada.png)
+![Screen shot from a 2022 LinkedIn EasyApply form that asks the question "Are you legally eligible to work in Canada?"](/../../images-posts/eligible-to-work-in-Canada.png)
 
 Even an employer that outsources its hiring to a firm that knows the minor differences in global hiring deserves recognition at least, and I like to think that praise is due such employers as well.
 
-![Screen shot from a 2022 Workday form that asks the question "Are you legally authorized to work in the country in which the role you are applying for is based?"](../images-posts/eligible-to-work-in-relevant-country.png)
+![Screen shot from a 2022 Workday form that asks the question "Are you legally authorized to work in the country in which the role you are applying for is based?"](/../../images-posts/eligible-to-work-in-relevant-country.png)
 
 Compare this barely-customized boilerplate approach to the wonderful hiring process of GitLab. They are absolutely the gold standard for hiring technical writers. Every part of [their hiring process is documented](https://about.gitlab.com/handbook/hiring/interviewing/#how-we-conduct-remote-interviews-on-a-global-scale) and available for any applicant or even prospective applicant to view. Even salary ranges and benefits are available for an applicant who has been granted a screening interview.
 
