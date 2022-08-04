@@ -5,7 +5,7 @@ date:   2022-08-08 12:30:00 -0400
 tags: samples copyright ethics employment hiring job job-search pre-interview recruitment staffing intellectual-property
 categories: employment
 ---
-Technical writers maintain samples of documents that they once created and add those sample documents to their professional portfolios. Even though having a portfolio does not (repeat: _not_) exist for the sole purpose of employment, writing samples can be useful when seeking a new technical writing position.
+Technical writers maintain samples of documents that they once created and add those sample documents to their professional portfolios. Even though I do not (repeat: _not_) have a portfolio for the sole purpose of employment, writing samples can be useful when seeking a new technical writing position.
 
 Showing samples to prospective employers was always a grey area ethically. What we think of as samples are single copies of work to which we do not own the copyright. But allowing a prospective employer to examine these samples as part of an interview process is not worth anyone "lawyering up" over, especially since we as writers used to control access to the samples and since the duration of that access of yesteryear was enough for a quick perusal but not for any activity that would damage the copyright owner.
 
