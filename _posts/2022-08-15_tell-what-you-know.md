@@ -7,7 +7,7 @@ tags: research screenshots screen-shots
 ---
 Do we, as technical writers, tell the reader everything we know? Do we heck!
 
-We most emphatically do not. And listing just the reasons why we do not would take a long time and a lot of words. That's _listing_ the reasons, not explaining any of them.
+We most emphatically do not. And listing just the reasons why we do not would take a long time and a lot of words. That's _listing_ the reasons, not explaining any of them. But let's talk about one of the reasons.
 
 Readers are busy people. If they read the documentation at all, it's usually because they were using the product to get something done, and hit a roadblock. They want to read just long enough to get unblocked.
 
@@ -15,7 +15,7 @@ Even if the reader is reading to learn, the technical writer still gets the read
 
 Developers are also busy people, and most of them provide information to technical writers without context. "Update the procedure to reflect current functionality." Uh huh. Have we by any chance assumed that anybody has told the technical writing team about any recent changes? Or have we perhaps assumed that the technical writing team has the ability to use the product?
 
-But some developers are absolute rock stars. Without prompting, they provide a summary of how the product works now plus a quick sketch of how's that was different in the past, a brief mention of _why_ the change was made and why the user will care and benefit from the new feature, a link to a document (such as a wiki) with tons of background, and at least a small handful of screen shots.
+Some developers are absolute rock stars. Without prompting, they provide a summary of how the product works now plus a quick sketch of how that was different in the past, a brief mention of _why_ the change was made and why the user will care and benefit from the new feature, a link to a document (such as a wiki) with tons of background, and at least a small handful of screen shots.
 
 The whole concept of screen shots is a massive topic for another time. But screen shots provide a way for me to introduce an important point:
 

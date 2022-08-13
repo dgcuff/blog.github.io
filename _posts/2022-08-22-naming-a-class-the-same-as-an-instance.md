@@ -11,7 +11,7 @@ Software evolves over time. When writing the software, a developer creates a sim
 
 So now we have the class called Provider, and an object within that class, also called Provider. To which the developer then adds the second object (in the same class) called Reseller. Remember, the need for the second object is what caused the developer to create a class.
 
-If you name a class and its object the exact same thing, that will cause the computer no issues at all. (Depending on the language you're using. It's not like as though creating an object without a class is great programming practice, but this blog is about technical writing, not programming.) The computer will neither blink nor hiccup and yet will never confuse the two. How could it? One's a class, and the other is an object. You humans are so dumb.
+If you name a class and its object the exact same thing, that will cause the computer no issues at all. (Depending on the language you're using. It's not as though creating an object without a class is great programming practice, but this blog is about technical writing, not programming.) The computer will neither blink nor hiccup and yet will never confuse the two. How could it? One's a class, and the other is an object. You humans are so dumb.
 
 But the identically named class and object will eventually cause issues for the user. If the classes and objects are exposed in a programming interface, the user will have issues distressingly soon.
 
@@ -45,7 +45,7 @@ If you choose to live in a new neighbourhood, you may find yourself giving poten
 
 Confusion is eventually going to arise, I promise you. I make this promise as someone who has lived in two such neighbourhoods. 
 
-In this fictional neighbourhood of Mill Stream, I tend to find lodgings just off the main street, which side street we will call Temple Lane. Let's say I reside at number 47. Eventually a delivery driver with incomplete records or a visitor with an imperfect memory will complain that I wasn't home as promised... because they retained the number 47 and the name Mill Stream, made the incorrect assumption that I was on Mill Stream Drive, and knocked on the door at 47 Mill Stream Drive, where no one was home.
+In this fictional neighbourhood of Mill Stream, I tend to find lodgings just off the main street, which side street we will call Temple Lane. Let's say I reside at number 47. Eventually a delivery driver with incomplete records or a visitor with an imperfect memory will complain that I wasn't home as promised... because they retained the number 47 and the name Mill Stream, made the incorrect assumption that I was on Mill Stream Drive, and knocked on the door at 47 Mill Stream Drive, where no one was home. While I sat impatiently at 47 Temple Lane, waiting for their arrival.
 
 Using the name Offspring for your offspring is not a best practice. I am not aware that this has ever happened.
 
