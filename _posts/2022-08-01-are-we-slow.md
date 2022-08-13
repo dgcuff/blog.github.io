@@ -2,7 +2,7 @@
 layout: post
 title:  "Are technical writers 'slow'?"
 date:   2022-08-01 12:30:00 -0400
-tags: coders developers software-developers software-engineers flow-state string-review user-interface-review speed slowness
+tags: coders developers programmers software-developers software-engineers flow-state string-review user-interface-review speed slowness
 categories: developers communication
 ---
 I spend most of my time at work thinking about the product users. Those are the people who will be reading what I wrote. That means I spend a lot of time considering what each person might not know, and might not know they don't know. Part of the job of a technical writer is helping people learn. Which puts me in a very different head space than a lot of the people I work with. 
