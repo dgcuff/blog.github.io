@@ -3,7 +3,7 @@ layout: post
 title:  "Writing-sample ethics"
 date:   2022-08-08 12:30:00 -0400
 tags: samples copyright ethics employment hiring job job-search pre-interview recruitment staffing intellectual-property
-categories: employment
+category: employment
 ---
 Technical writers maintain samples of documents that they once created and add those sample documents to their professional portfolios. Even though I do not (repeat: _not_) have a portfolio for the sole purpose of employment, writing samples can be useful when seeking a new technical writing position.
 
