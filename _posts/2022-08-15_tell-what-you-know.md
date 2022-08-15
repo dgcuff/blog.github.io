@@ -27,6 +27,6 @@ But occasionally, a couple of times a year at least, a developer will hesitate t
 
 This all ties back to a lesson about writing fiction that long predates the availability of the home computer. Some fiction requires research. Historical fiction tends to require the most research. The least artful writers include all their research in their final draft. Sometimes this is just laziness; other times the writer's motives are more pure. "I was fascinated by this, so I thought I'd share it with you." Which is fine so long as it doesn't bring the story to a crashing halt for a history lecture.
 
-So the advice for writing historical fiction and for writing to help the user of a product is the same: Do your research, but don't burden the reader with all of it.
+So the advice for writing historical fiction and for writing to help the user of a product is the same: Do your research, but don't burden the reader with everything you learned.
 
 And that's why we don't tell everything we know.
