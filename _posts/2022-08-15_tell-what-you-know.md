@@ -2,8 +2,8 @@
 layout: post
 title:  "On not telling everything you know"
 date:   2022-08-15 12:30:00 -0400
-categories: communication
 tags: research screenshots screen-shots
+category: communication
 ---
 Do we, as technical writers, tell the reader everything we know? Do we heck!
 
