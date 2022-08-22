@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Writing-sample ethics"
-date:   2022-08-08 12:30:00 -0400
+title: "Writing-sample ethics"
+date: 2022-08-08 12:30:00 -0400
 tags: samples copyright ethics employment hiring job job-search pre-interview recruitment staffing intellectual-property
 category: employment
 ---
