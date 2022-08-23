@@ -55,7 +55,7 @@ Using the same name for a class and its objects is not a best practice, and it h
 
 I've already explained how we got here: there's never enough time.
 
-Now, where exactly are we?
+Now, where exactly _are_ we?
 
 A developer has given exactly the same name to two separate concepts, and you as a technical writer have been tasked with explaining both concepts to those users of the software who read the product documentation.
 
