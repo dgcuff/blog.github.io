@@ -13,7 +13,7 @@ About a week later, the same technical recruiter forwarded me an e-mail chain fr
 
 I carefully did not open the PDF. The other applicant's privacy had been breached enough. I wrote the other applicant and made that applicant aware of the breach. I wrote to the technical recruiter, and everyone at the hiring firm who had been copied on the chain, informing the firm of their mistake.
 
-The other applicant replied immediately, asking me to delete the e-mail chain, which of course I did.
+The other applicant replied immediately, asking me to delete the e-mail chain, which of course I did. And I confirmed to the other applicant that I had deleted it.
 
 The technical recruiter telephoned me the same day to apologize for the inconvenience and also asked me to provide the firm with an undertaking that I had deleted the e-mail chain. It was nice to have the assurance that the firm hadn't fired the technical recruiter over the incident. But I do confess to some surprise that they should react to their error by requiring an undertaking from me.
 
