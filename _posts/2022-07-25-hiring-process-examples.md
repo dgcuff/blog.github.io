@@ -3,7 +3,7 @@ layout: post
 title:  "Hiring process subtext and oblique signals: what's in a form?"
 date:   2022-07-25 12:30:00 -0400
 tags: employment hiring job job-search pre-interview recruitment staffing
-categories: employment
+categories: employment examples
 typora-root-url: ./images-posts/
 ---
 I'm happy with my current employer, but next time it comes to looking for work as a technical writer, I intend to remember that not all companies are created equal. Some companies signal to prospective employees how they can expect to be treated. Unsurprisingly, especially to adherents of [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law), more companies will signal that they will _not_ treat you well, but do not despair. There are still companies that signal the significant respect that they have for their employees and prospective employees. Profitable and respected companies, capitalism apologists please note.
