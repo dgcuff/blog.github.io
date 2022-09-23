@@ -41,7 +41,7 @@ His frustration was real and should not be overlooked, downplayed, or worst of a
 
 I was fortunate enough that I understood this expert's natural pushback against people who want to "improve" something by adding their individual contribution, not all of which "improvement" is helpful. 
 
-![Text illustration reading "The strongest drive is not love or hate. It is one person's need to ~~change~~ ~~modify~~ ~~revise~~ ~~alter~~ ~~rewrite~~ ~~amend~~ ~~chop to pieces~~ change another's copy."](/../../images-posts/The-strongest-drive_reduced.png)
+![Text illustration reading "The strongest drive is not love or hate. It is one person's need to ~~change~~ ~~modify~~ ~~revise~~ ~~alter~~ ~~rewrite~~ ~~amend~~ ~~chop to pieces~~ change another's copy."](/../../images-posts/The-strongest-drive_high-contrast.png)
 
 <p style="font-size: 10px; text-align: left;">[Text illustration as reproduced in <cite>The Elements of Editing</cite> by Arthur Plotnik (1982)]</p>
 
