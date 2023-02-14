@@ -27,7 +27,6 @@ domain: blog.github.io       # if you want to force HTTPS, specify the domain wi
 url: https://blog.github.io  
 baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
-twitter_username: dgcuff
 github_username:  dgcuff
 
 # Build settings
