@@ -36,3 +36,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Trying to fix bug: cannot load such file -- webrick (LoadError)
 gem "webrick"
+
+gem "jekyll-mastodon_webfinger", "~> 1.0"

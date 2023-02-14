@@ -28,11 +28,15 @@ url: https://blog.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
 github_username:  dgcuff
+mastodon:
+  username: dgcuff
+  instance: mstdn.ca
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll/mastodon_webfinger
 
 # Exclude from processing.
 # The following items will not be processed, by default.
