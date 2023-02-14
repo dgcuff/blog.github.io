@@ -1,20 +1,18 @@
 ---
 layout: post
-title:  "Technical writers are not helicopters"
-date:   2022-12-08 07:00:00 -0400
+title:  "Giving thanks"
+date:   2022-10-08 07:00:00 -0400
 category: communication
-tags: coders developers programmers software-developers software-engineers deadlines scheduling
+tags: praise feedback
 ---
-The majority of developers and their managers have absolutely no idea what technical writers do. Most developers think of us as old-school secretaries (administrative assistants) who correct their typographical errors and handle their typing. If you are a developer who knows better, please educate your peers rather than sending me a note with the message "not all developers."
+Over the years, I have been blessed by working with terrific people.
 
-Developers frequently work with time pressure. They have limited time to code and debug a feature. Why should technical writers not have the same stresses?
+Testers. Managers. Developers. Software architects. Customer support people at various levels. Fellow technical writers. Executives. Subject matter experts.
 
-Here's where the difference is: Developers are treated like military pilots. You will be asked to get in the air rapidly. But you'll still be given a runway so that your aircraft can take off.
+Quite a lot of these people could write a lot better than they thought they could. When they wrote, they thought about the user.
 
-Too many developers provide technical writers with absolutely no runway. We are not helicopters. If you tell us the day before you release a feature that it needs documentation (yes, this has actually happened), then you've deprived us of any runway. And what's worse, developers and their managers complain that we need a runway.
+Some of them couldn't write well but they were great at talking about what they wanted to write... if only I could get enough of their time to interview them. Below-average writers, but still way better-than-average communicators.
 
-Involve your technical writers early. Very early. If you are having a design discussion, then your technical writers will benefit from hearing it. If you prefer to wait until after the design discussion to involve your technical writers, that's probably okay as long as you do it _immediately_ after the design discussion, and not the week after.
+Some cared more about the user than their fellow team members, and some felt the opposite. I've no idea which to recommend for others. I know what works for me, and that'll have to be enough.
 
-We need a lot of information in order to write. Everything you tell us isn't going to end up in the documentation, but we still need to know it.
-
-We're all airplanes: developers, quality assurance engineers, and technical writers. Please treat us like airplanes. Not like helicopters. We too need runways.
+Before I know it, it'll be time for me to lay down my pen. Long before that happens, I want to take a moment to be thankful to all the team members who showed me good people can do their jobs well. I learned a lot of how to be a good technical writer by watching others be good testers, managers, developers, and so on.
