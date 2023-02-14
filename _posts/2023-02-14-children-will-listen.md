@@ -3,9 +3,9 @@ layout: post
 title:  "On dropping a stone down a well"
 date:   2023-02-14 07:00:00 -0400
 category: communication
-tags: praise feedback
+tags: feedback
 ---
-The most recent time I was considering and being considered for a new technical writing position, I got a surprise. One of the managers mentioned my recent posting on this blog, [Technical writers are not helicopters](2022-12-08-helicopters.md).
+The most recent time I was considering and being considered for a new technical writing position, I got a surprise. One of the managers mentioned my recent posting on this blog, [Technical writers are not helicopters](https://blog.dougcuff.name/communication/2022/12/08/helicopters.html). 
 
 That was the first indication I had had that anyone ever read any of this blog.
 
