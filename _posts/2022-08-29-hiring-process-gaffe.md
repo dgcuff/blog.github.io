@@ -9,7 +9,7 @@ I once submitted an application to a firm that specializes in computer security,
 
 Enh. It happens.
 
-About a week later, the same technical recruiter forwarded me an e-mail chain from another applicant to the firm, including the a PDF of the applicant's writing samples.
+About a week later, the same technical recruiter forwarded me an e-mail chain from another applicant to the firm, including a PDF of the applicant's writing samples.
 
 I carefully did not open the PDF. The other applicant's privacy had been breached enough. I wrote the other applicant and made that applicant aware of the breach. I wrote to the technical recruiter, and everyone at the hiring firm who had been copied on the chain, informing the firm of their mistake.
 
